@@ -1,4 +1,4 @@
-# Scrimba-React-UseState
+# Scrimba-React-UseState-Map
 
 This project demonstrates how to use the `useState` hook in React to manage and update state in a functional component. The application allows users to dynamically add new items to a list by clicking a button.
 
@@ -25,7 +25,7 @@ This project demonstrates how to use the `useState` hook in React to manage and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BhoomiGohil/Scrimba-React-UseState.git
+   git clone https://github.com/BhoomiGohil/Scrimba-React-UseState-Map.git
    ```
 
 2. Install the dependencies:
